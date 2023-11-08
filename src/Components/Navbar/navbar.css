@@ -102,4 +102,8 @@
   .gpt3__navbar-links_container {
     display: none;
   }
+
+  .gpt3__navbar-menu {
+    display: flex;
+  }
 }
